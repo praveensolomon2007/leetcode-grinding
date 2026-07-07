@@ -1,2 +1,3 @@
-.gitignore
-leetcode.py
+*.py
+__pycache__/
+.env
